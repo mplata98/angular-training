@@ -1,4 +1,5 @@
 # AngularTraining
+Simple app made durring Angular course. Intended as an excercise.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
